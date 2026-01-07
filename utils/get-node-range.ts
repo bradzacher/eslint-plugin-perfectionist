@@ -1,5 +1,5 @@
 import type { TSESTree } from '@typescript-eslint/types'
-import type * as TSESLint from '@typescript-eslint/utils/ts-eslint';
+import type * as TSESLint from '@typescript-eslint/utils/ts-eslint'
 
 import * as ASTUtils from '@typescript-eslint/utils/ast-utils'
 
